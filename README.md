@@ -1,1 +1,1 @@
-# chromophore_statmech_tools
+# Conformational ensemble of chromophore in water
